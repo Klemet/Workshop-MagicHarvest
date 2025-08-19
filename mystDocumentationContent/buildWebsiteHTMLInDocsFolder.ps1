@@ -1,5 +1,5 @@
 # Set the BASE_URL environment variable to a placeholder address
-$env:BASE_URL = "https://klemet.github.io/Workshop-MagicHarvest/"
+$env:BASE_URL = "https://klemet.github.io/Workshop-MagicHarvest"
 
 # Build the HTML files
 myst build --html
@@ -18,6 +18,9 @@ New-Item -ItemType Directory -Path $destDir
 
 # Copy all files and subdirectories from the source directory to the destination directory
 Copy-Item -Path $sourceDir\* -Destination $destDir -Recurse
+
+# Create an empty .nojekyll file in the docs folder
+New-Item -ItemType File -Path "$destDir\.nojekyll" -Force
 
 # Output a message indicating the operation is complete
 Write-Host "All files and subdirectories have been successfully moved to the $destDir folder."
