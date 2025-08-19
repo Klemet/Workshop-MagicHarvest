@@ -1,0 +1,10 @@
+# Exercices
+
+**Authors:** Clément Hardy<sup>1</sup> \
+**Affiliations:** <sup>1</sup>Université du Québec en Outaouais (UQO)\
+
+[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+
+## Thinking about what you can do with Magic Harvest
+
+The three exercices that I propose here will not ask you to code in any programming langage. 

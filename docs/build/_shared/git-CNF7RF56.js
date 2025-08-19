@@ -1,0 +1,1 @@
+import{a}from"https://klemet.github.io/Workshop-MagicHarvest/build/_shared/chunk-FX4GW6JW.js";import"https://klemet.github.io/Workshop-MagicHarvest/build/_shared/chunk-2NH4LW52.js";export default a();

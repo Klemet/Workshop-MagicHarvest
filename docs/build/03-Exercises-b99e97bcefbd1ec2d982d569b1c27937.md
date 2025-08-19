@@ -1,0 +1,22 @@
+# Exercices
+
+**Authors:** Clément Hardy<sup>1</sup> \
+**Affiliations:** <sup>1</sup>Université du Québec en Outaouais (UQO)\
+
+[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+
+## Thinking about what you can do with Magic Harvest
+
+The three exercices that I propose here will not ask you to code in any programming langage.
+
+What I'm going to do is ask you to write step-by-step algorithms in plain english about what a possible script used with Magic Harvest (whatever the programming langage you choose down the road) will be used for different use case.
+
+In that way, when you'll try to use Magic Harvest for your own research, I hope that you'll have a general idea of what you'll want to do with it. The implementation of your algorithm in a programming - the coding part - is not necesseraly the most complex thing to do, especially with the new AI tools that are accessible today.
+
+## Example of an algorithm in plain english
+
+![](./images/Slide28.jpg)</br>
+
+Here is an example of the kind of algorithm I propose that you'll write in the following exercises, in plain english. 
+
+
