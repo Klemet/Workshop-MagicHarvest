@@ -1,5 +1,5 @@
 # Set the BASE_URL environment variable to a placeholder address
-$env:BASE_URL = "https://klemet.github.io/Workshop-MagicHarvest"
+$env:BASE_URL = "https://klemet.github.io/Workshop-MagicHarvest/"
 
 # Build the HTML files
 myst build --html
