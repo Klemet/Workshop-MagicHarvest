@@ -10,6 +10,8 @@ project:
   # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+  title: Magic Harvest Workshop
+  options:
+    favicon: logoMagicHarvest.ico
+    logo: logoMagicHarvest.svg
+    
